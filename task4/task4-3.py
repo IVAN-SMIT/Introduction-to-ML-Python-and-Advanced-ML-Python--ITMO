@@ -18,7 +18,6 @@ categorical_cols = df_train.select_dtypes(include=['object']).columns.tolist()
 if 'label' in categorical_cols:
     categorical_cols.remove('label')
 
-# Заменяем '?' на NaN
 df_train = df_train.replace('?', np.nan)
 
 # Заполняем пропуски модой в категориальных столбцах (на основе train!)
@@ -49,7 +48,6 @@ df_test = pd.read_csv('task4/adult_data_reserved.csv')  # ← Убедитесь
 # Удаляем те же признаки
 df_test = df_test.drop(['education', 'marital-status'], axis=1)
 
-# Заменяем '?' на NaN
 df_test = df_test.replace('?', np.nan)
 
 # Заполняем пропуски модой (используем моду из ТРЕНИРОВОЧНОГО датасета!)
@@ -79,4 +77,5 @@ prediction_list = predictions.tolist()
 print(Fore.RED + pyfiglet.figlet_format(''.join([chr(code) for code in [98, 121, 32, 73, 49]]), 
           font="starwars") + Style.RESET_ALL)
 print(prediction_list)
+
 print("BY IVAN SMIT, 2025")
