@@ -14,6 +14,7 @@
 8.   [Задача классификации: деревья принятия решений]()
 9.   [Кластеризация]()
 10.   [Ансамблевые методы ]()
-11.   [Обучение с подкреплением](https://github.com/IVAN-SMIT/Introduction-to-ML-Python-and-Advanced-ML-Python--ITMO/tree/main/task11/)
-12.   [exam]()
+11.   [Обучение с подкреплением 1](https://github.com/IVAN-SMIT/Introduction-to-ML-Python-and-Advanced-ML-Python--ITMO/tree/main/task11/)
+12.   [Обучение с подкреплением 2](https://github.com/IVAN-SMIT/Introduction-to-ML-Python-and-Advanced-ML-Python--ITMO/tree/main/task12/)
+13.   [exam]()
     
