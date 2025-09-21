@@ -4,7 +4,7 @@
 
 Содержание:
 
-1.    [Введение в машинное обучение ]()  
+1.    [Введение в машинное обучение ](https://github.com/IVAN-SMIT/Introduction-to-ML-Python-and-Advanced-ML-Python--ITMO/tree/main/task1/)  
 2.    [Метод главных компонент](https://github.com/IVAN-SMIT/Introduction-to-ML-Python-and-Advanced-ML-Python--ITMO/tree/main/task2/)  
 3.    [Регрессия](https://github.com/IVAN-SMIT/Introduction-to-ML-Python-and-Advanced-ML-Python--ITMO/tree/main/task3/) 
 4.    [Трекинг](https://github.com/IVAN-SMIT/Introduction-to-ML-Python-and-Advanced-ML-Python--ITMO/tree/main/task4/)    
