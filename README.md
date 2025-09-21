@@ -5,10 +5,10 @@
 Содержание:
 
 1.    [Введение в машинное обучение ]()  
-2.    [Метод главных компонент](https://github.com/IVAN-SMIT/Introduction-to-ML-Python-and-Advanced-ML-Python--ITMO/task2/)  
-3.    [Регрессия](https://github.com/IVAN-SMIT/Introduction-to-ML-Python-and-Advanced-ML-Python--ITMO/task3/) 
-4.    [Трекинг](https://github.com/IVAN-SMIT/Introduction-to-ML-Python-and-Advanced-ML-Python--ITMO/task4/)    
-5.    [Задача классификации: k-NN и наивный байесовский классификатор](https://github.com/IVAN-SMIT/Introduction-to-ML-Python-and-Advanced-ML-Python--ITMO/task5/) 
+2.    [Метод главных компонент](https://github.com/IVAN-SMIT/Introduction-to-ML-Python-and-Advanced-ML-Python--ITMO/tree/main/task2/)  
+3.    [Регрессия](https://github.com/IVAN-SMIT/Introduction-to-ML-Python-and-Advanced-ML-Python--ITMO/tree/main/task3/) 
+4.    [Трекинг](https://github.com/IVAN-SMIT/Introduction-to-ML-Python-and-Advanced-ML-Python--ITMO/tree/main/task4/)    
+5.    [Задача классификации: k-NN и наивный байесовский классификатор](https://github.com/IVAN-SMIT/Introduction-to-ML-Python-and-Advanced-ML-Python--ITMO/tree/main/task5/) 
 6.   [Задача классификации: логистическая регрессия]()
 7.   [Задача классификации: метод опорных векторов]()
 8.   [Задача классификации: деревья принятия решений]()
